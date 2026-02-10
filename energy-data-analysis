@@ -1,0 +1,10 @@
+energy-data-analysis/
+│
+├── data/
+│   ├── raw/
+│   ├── cleaned/
+│
+├── notebooks/
+├── src/
+├── outputs/
+│   ├── figures/
